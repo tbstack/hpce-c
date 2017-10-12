@@ -1,0 +1,3 @@
+[submodule "third_part/makefile_meta"]
+	path = third_part/makefile_meta
+	url = https://github.com/tenfyzhong/makefile_meta.git
